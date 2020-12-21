@@ -1,6 +1,6 @@
 # Ex2 - Pokémon game
 
-![alt text](https://i.ibb.co/hBKQgGY/COVER.jpg)
+![alt text](https://i.ibb.co/FH9g10W/COVER.jpg)
 
 
 ## This project was made during my OOP course at Ariel University in the Department of Computer Science, 2020.
