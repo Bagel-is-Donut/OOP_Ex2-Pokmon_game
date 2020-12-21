@@ -5,7 +5,7 @@
 
 ## This project was made during my OOP course at Ariel University in the Department of Computer Science, 2020.
 
-### Project site: https://github.com/talcome/DWGraph.git
+### Project site: https://github.com/Lioo7/DWGraph
 
 ### Made by: Tal Ko & Lioz Akirav.
 
