@@ -20,6 +20,9 @@
 
  This project represents an infrastructure of 
  algorithms for creating of a directed weighted positive graph.
+ 
+ ## Data structure
+The main data structures in the program are HashMap, all the nodes (vertices) store in a HashMap and all the edges also store in a HashMap which contains another inner HashMap inside, which contains the neighbors of each node (vertex) in the graph. The reason behind it is the efficient complexity of this data structure, which allows accessing, inserting, and to delete from the hash table with great complexity of O(1) on average.
 
  ## NodeData 
  This class represents the set of operations applicable to a 
