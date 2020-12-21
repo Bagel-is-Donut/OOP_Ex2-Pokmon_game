@@ -173,41 +173,6 @@ Each Pokémon has:
  * currNode - which represents the current agent's node.
  * id - which represents the Pokémon's ID, which combines its coordinates.
 
-### RESULTS TABLE
-
-| Level | Grade | Moves |
-| :---: | :---: | :---: |
-| 0 | 147 | 280 |
-| 1 | 396 | 576 |
-| 2 | 249 | 271 |
-| 3 | 597 | 535 |
-| 4 | 182 | 252 |
-| 5 | 597 | 535 |
-| 6 | 79 | 277 |
-| 7 | 304 | 565 |
-| 8 | 65 | 261 |
-| 9 | 374 | 520 |
-| 10 | 95 | 251 |
-| 11 | 669 | 507 |
-| 12 | 66 | 279 |
-| 13 | 188 | 554 |
-| 14 | 89 | 259 |
-| 15 | 353 | 540 |
-| 16 | 221 | 251 |
-| 17 | 756 | 519 |
-| 18 | 40 | 279 |
-| 19 | 256 | 535 |
-| 20 | 166 | 262 |
-| 21 | 228 | 539 |
-| 22 | 157 | 251 |
-| 23 | 564 | 485 |
-
-
- ## How to run ##
- 1. Click the green Clone or Download button on the right. 
- 2. Click the Download ZIP button. 
- 3. Open the project on your computer.
- 4. Run tests classes on MyTest folder.
  
  ## Sources ##
  * https://www.softwaretestinghelp.com/dijkstras-algorithm-in-java/
