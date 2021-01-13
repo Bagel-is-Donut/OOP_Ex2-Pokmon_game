@@ -41,7 +41,7 @@ directional edge in a directional weighted graph.
  * the graph's edges saved in Hashmap.
 
  ## WGraph_Algo
- This interface represents an Undirected Positive Weighted Graph Theory algorithms including:
+ This interface represents an directed weighted graph algorithms including:
  0. clone().
  1. init(graph).
  2. isConnected().
